@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/
+*.log
+*.tmp
+.env*
+catalog-snapshot.json
+models_cache.json
+config.toml
+config-before-install.toml
+install-state.json
+auth.json
+integration-journal*.json
